@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="136074" started-at="2020-03-08T14:57:57 IST" finished-at="2020-03-08T15:00:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="136074" started-at="2020-03-08T14:57:57 IST" finished-at="2020-03-08T15:00:13 IST">
+      <class name="com.crm.qa.testcases.DealsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="43442" started-at="2020-03-08T14:57:59 IST" finished-at="2020-03-08T14:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewDeals(java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="validateCreateNewDeals" duration-ms="6350" started-at="2020-03-08T14:58:42 IST" data-provider="getCRMTestData" finished-at="2020-03-08T14:58:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tech mahindra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewDeals -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="1460" started-at="2020-03-08T14:58:49 IST" finished-at="2020-03-08T14:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="25207" started-at="2020-03-08T14:58:50 IST" finished-at="2020-03-08T14:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewDeals(java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="validateCreateNewDeals" duration-ms="11411" started-at="2020-03-08T14:59:15 IST" data-provider="getCRMTestData" finished-at="2020-03-08T14:59:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C#]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ril]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewDeals -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="1054" started-at="2020-03-08T14:59:27 IST" finished-at="2020-03-08T14:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="36852" started-at="2020-03-08T14:59:28 IST" finished-at="2020-03-08T15:00:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewDeals(java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="validateCreateNewDeals" duration-ms="7731" started-at="2020-03-08T15:00:05 IST" data-provider="getCRMTestData" finished-at="2020-03-08T15:00:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Infosys]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewDeals -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="997" started-at="2020-03-08T15:00:12 IST" finished-at="2020-03-08T15:00:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.DealsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
